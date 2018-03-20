@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="bootstrap.css">
+    <link rel="stylesheet" href="fontawesome.css">
+    <link rel="stylesheet" href="bootstrap.js">
+    
+    <title>NAHID RAHMAN</title>
+    
+    <style>
+           ul{
+               list-style-type: none;
+               margin: 0;
+               padding: 0;
+               overflow: hidden;
+               background-color: slategrey;
+               position: sticky;
+               top: 0;
+               
+               
+           } 
+
+           li{
+               float: left;
+           }
+
+
+           li a{
+               display: block;
+               color: seashell;
+               text-align: center;
+               padding: 14px 16px;
+               text-decoration: none;
+           }
+
+           li a :hover{
+               background-color: tomato;
+           }
+
+           .main-Content{
+               width:35px;
+           }
+           .Cover{
+               background-image: url('cover3.jpg');
+               background-size: 1015px 415px;
+               height: 415px;
+               border: 0.5px solid gray;
+           }
+
+           .Profile-Picture{
+               background-image: url('Nahid.jpg');
+               background-size: 150px 150px;
+               height: 150px;
+               width: 150px;
+               position: relative;
+               top: 295px;
+               left: 40px;
+           }
+
+           .search{
+           border: 2px soli grey;
+           border-radius: 4px;
+           cursor: pointer;
+           box-sizing: border-box;
+
+           }
+
+           .ft{
+               margin-top: 30px;
+           }
+
+           .Container{
+               margin-top: 40px;
+               margin-left: 5px;
+           }
+
+           header{
+               display: block;
+               color: black;
+               border: 0.1 px solid blanchedalmond;
+
+           }
+
+           .navBar{
+               position: fixed;
+               top: 0;
+               left: 25px;
+           }
+
+           #main {
+               width: 1000px;
+               padding: 12px;
+               margin-left: 1px;
+               background-color: lightgray;
+            }
+
+            #myslf{
+                margin: 0.1px;
+                margin-left: 3px;
+                margin-right: 3px;
+                margin-top: 2px;
+            }
+
+            #card-box{
+               border: 1px solid black;
+               border-radius: 10px;
+            }
+
+            #card-title{
+                color: rgb(0, 255, 42);
+                border: 0.1px solid grey;
+                margin-left: 3px;
+                background-color: blue;
+                text-align: center;
+            }
+
+            #card{
+                margin-left: 3px;
+                border: 5px solid rgb(48, 42, 44);
+                margin-left: 2px;
+                margin-top: 5px;
+            }
+
+            #id{
+                color: antiquewhite;
+            }
+            
+            footer{
+                border: 1px solid black;
+                float: left;
+                background-color: turquoise;
+                height: 50px;
+                width: 100%;
+            }
+            
+    </style>
+</head>
+
+<body>
+
+    <div class="navBar">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+           <a class="navbar-brand" href="#">NAHID</a>
+           
+         <ul>
+           <li>
+            <a href="facebook.com/nahid.rahman.756">PROFILE</a>
+           </li>
+           <li>
+                <a href="#">EDUCATION</a>
+           </li>
+           <li>
+            <a href="#">CO CURRICULAR ACTIVITIES</a>
+           </li>
+           <li>
+            <a href="#contact">CONTACT</a>
+           </li>
+         </ul>
+         <form class="search">
+           <label></label>
+           <input type="seach" placeholder="SEARCH" >
+           <button type="submit">SEARCH</button>
+         </form>
+        </nav>
+    </div>
+
+    <div id="main" class="Main-Content">
+        <div class="Cover">
+            <div class="Profile-Picture"></div>
+        </div>
+        <div>
+                <div  class="Container">
+                    <header ><h1 display-4><strong>WELCOME TO MY WEBSITE</strong></h1></header>
+                </div>
+                <p id="myslf">জন্ম ১২ই জানুয়ারি ১৯৯৬। তবে অন্য অনেকের মতো আমারও একটা সার্টিফিকেট জন্মসাল আছে, ১২,১১,১৯৯৯। নটরডেম কলেজে পড়ার সময় জনৈক বালিকাকে মুগ্ধ করার দৃঢ় প্রত্যয় নিয়ে একটা উপন্যাস লিখে ফেলেছিলাম। একদিন জলসিঁড়ি নামক উপন্যাসটি সেই বালিকাকে দ্রবীভূত করতে পারেনি। লেখক হিসেবে সেই দিন থেকেই আমি ব্যৰ্থ। ব্যৰ্থতাকে সহজভাবে মেনে নিয়ে আমি অন্য কাজকর্মে মনোনিবেশ ফেলি। সংসার চালানোর জন্য টিউশনির চেষ্টা করি। একটা টিউশনি জুটেও যায়। ছাত্র ইন্টারমিডিয়েটে বিজ্ঞানবিভাগে পড়ে। প্রথম দিন তাকে নিউটনের গতিসূত্র বোঝাই। মাস্টার হিসেবে আমি কেমন এটা পরখ করার জন্য ছাত্রের বাবা পাশে বসে ছিলেন। ছাত্রটি নিউটনের গতিসূত্র চমৎকারভাবে ধরে ফেললেও তার ক্লাস এইট পাশ বাবা ব্যাপারটার আগামাথা কিছুই বুঝলেন না। কাজেই প্রথমদিনেই টিউশনি থেকে বাদ পড়ে গেলাম। এরপর শুরু করলাম পত্রিকায় লেখালেখি। শুধু টাকার জন্য প্রথম আলো পত্রিকায় দুই হাতে লেখা শুরু করলাম। সেই লেখালেখির জেরেই যুগান্তর পত্রিকায় চাকরি পেয়ে যাই কের। টানা ১৩ বছর সেখানে সাংবাদিকতা করি। যুগান্তরে থাকার সময় জনৈক প্রকাশক আমার সাথে যোগাযোগ করেন। তিনি আমার একটি বই বের করতে চান। পুরনো ব্যর্থতার কথা ভুলে আমি বই বের করতে রাজি হয়ে যাই। চার মাস ঘুরানোর পর চারটি ছোট গল্প তার হাতে তুলে দেই। প্রকাশক বিরস বদনে বলেন, এইটুকু দিয়ে তো দুই ফর্মও হবে না। প্ৰকাশককে উদ্ধার করার জন্য আমি আরও দুইজন তরুণ লেখককে জোগাড় করি, যারা লম্বা লম্বা গল্প লিখতে পারেন। তিনজনের বারোটি গল্প মিলে বের হয়, তিন তরুণের গল্প। এরপরের বছর একই কায়দায় ত্রয়ী নামে আরেকটি গল্পগ্রন্থ বের হয়। আশ্চর্যজনকভাবে প্রথম বই তিন কপি, দ্বিতীয় বইটিও সর্বমোট তিন কপি বিক্রি হয়। লেখক তিনজন থাকায় এই দারুন সাফল্য। তিনে মিলে করি কাজ, হারিজিতি নাহি লাজ। এরপর টানা আট বছর আমি কোনো বই ফাঁদার কথা স্বপ্নেও ভাবিনি। তবু স্বভাবদোষে বের হলো, কাগজের নীেকা। এখন নৌকাডুবির অপেক্ষা। লেখক পরিচিতিতে ভালো ভালো কথা লেখার নিয়ম। অধিকাংশক্ষেত্রে লেখক নিজেই নিজের ঢোল ফাটিয়ে ফেলেন। আমার কোনো ঢোল নেই, তাই ফাটাতে পারলাম না। আমি দুঃখিত। (সংগৃহিত) :-P </p>
+        
+            </div>
+
+            <div class="Container">
+                <div  id="card-box">
+
+                <div id="card">
+                    <header id="card-title">
+                        <h4>BOOKLOVER</h4>
+                    </header>
+                    <img src="book.jpg" alt="BOOKLOVER" height="300px" width="250px">
+                    <div>
+                        <p>ভালোবাসি বই পড়তে। বই পড়ার সময়গুলোয় জীবনের সেরা সময় আমার। পঠিত বইয়ের সংখ্যা যদিও খুব বড় না। তবে, সামনে বই পেলে নাওয়া-খাওয়া ভুলতে সময় লাগেনা আমার। </p>
+                        <p id="update"><small>updated few minutes ago</small></p>
+                    </div>
+                </div>
+
+                <div id="card">
+                    <header id="card-title">
+                        <h4>FOODLOVER</h4>
+                    </header>
+                    <img src="eat.jpg" alt="FOODLOVER" height="300px" width="250px">
+                    <div>
+                        <p>কখনো কখনো এমন ত আমাদের সবারই হয়, কিছু করতে খুব ভালো লাগে কিন্তু অন্যেরা করতে দেয়না। অন্য অনেকে বিষয় এমনটা হলেও আমার ভাগ্যটা খাবারের দিকে খুব ভালো বলা চলে। আমার বি-এম-এই খুবই কম। তাই, খাবার ব্যাপারে কেউ কিছু বলেন উল্টো রাস্তা সহজ করে দেয়।</p>
+                        <p id="update"><small>updated few minutes ago</small></p>
+                    </div>
+                </div>
+
+                <div id="card">
+                    <header id="card-title">
+                        <h4>STUPID</h4>
+                    </header>
+                    <img src="stupidity.jpg" alt="STUPID" height="300px" width="250px">
+                    <div>
+                        <p>আমার আশেপাশে থেকেছে কেউ আর আমার স্টুপিডিটির সাথে পরিচয় হয়নি, মাল্টিভারর্স ইউনিভারর্স সেটা সত্য হবে কিনা জানিনা তবে, তা এই ইউনিভারর্স হবেনা। এজন্য নিজেকেও কম পস্তাতে হয়নি। হা হা হা। </p>
+                        <p id="update"><small>updated few minutes ago</small></p>
+                    </div>
+                </div>
+                </div>
+            </div>
+
+            <div id="contact" class="Container">
+                    <caption><h3>CONTACT_INFO:</h3></caption>
+                <table>
+                    <tr>
+                        <td>E-Mail:</td> 
+                        <td>nahidboss96@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td>Linked-in:</td> 
+                        <td>https://www.linkedin.com/in/ihsan-ahmad-b9233615a</td>
+                    </tr>
+                    <tr>
+                        <td>Sololearn:</td> 
+                        <td>https://www.sololearn.com/Profile/8335565</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div  class="Container">
+            <footer class="ft">
+                <a href="myself2.html">GO to 2nd PAGE</a>
+                <a href="myself3.html">GO to 3rd PAGE</a>
+            </footer>
+            </div>
+    </div>
+
+    <script>
+    
+
+    </script>
+    
+</body>
+</html>
